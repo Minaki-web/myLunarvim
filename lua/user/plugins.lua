@@ -1,4 +1,6 @@
 lvim.plugins = {
   "ellisonleao/gruvbox.nvim",
-  "iamcco/markdown-preview.nvim",
+  "roobert/tailwindcss-colorizer-cmp.nvim",
+  "NvChad/nvim-colorizer.lua",
+  "folke/todo-comments.nvim"
 }
